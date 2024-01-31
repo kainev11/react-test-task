@@ -1,0 +1,13 @@
+.products {
+    display: grid;
+    grid-template-columns: 20rem 20rem;
+    width: fit-content;
+    gap: 1rem;
+    margin-inline: auto;
+    padding: 2rem;
+}
+
+.image {
+    width: 100%;
+    border-radius: 1rem;
+}

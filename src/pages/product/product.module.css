@@ -1,0 +1,29 @@
+.productCard {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-block: 2rem;
+}
+
+.mainImage {
+    height: 30rem;
+    width: auto;
+}
+
+.images {
+    display: flex;
+    gap: 1rem;
+}
+
+.imageList {
+    display: flex;
+    flex-direction: column;
+    height: 30rem;
+}
+
+.image {
+    cursor: pointer;
+    height: 10rem;
+    width: auto;
+    margin-block-end: 1rem;
+}
